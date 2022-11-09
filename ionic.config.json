@@ -1,0 +1,7 @@
+{
+  "name": "workout_tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
